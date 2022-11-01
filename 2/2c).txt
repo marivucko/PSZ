@@ -1,0 +1,2 @@
+2.c) Broj uknjiženih kuca je 4359, dok je broj neuknjiženih kuca 1777.
+Broj uknjiženih stanova je 6660, dok je broj neuknjiženih stanova 3304.

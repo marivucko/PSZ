@@ -1,0 +1,238 @@
+2.b) Lista gradova i broja nekretnina koje se prodaju u gradu
++---------------------+----------------------------------------------+
+|         Grad        | Broj nekretnina koje se prodaju u ovom gradu |
++---------------------+----------------------------------------------+
+|      Aleksinac      |                      1                       |
+|       Alibunar      |                      3                       |
+|     Arandelovac     |                      13                      |
+|         Bac         |                      1                       |
+|       Bacinci       |                      1                       |
+|    Backa Palanka    |                      7                       |
+|     Backa Topola    |                      2                       |
+|     Backi Jarak     |                      2                       |
+|    Backi Monoštor   |                      1                       |
+|    Backi Petrovac   |                      2                       |
+|    Backo Gradište   |                      1                       |
+|     Bajina Bašta    |                      3                       |
+|  Banatsko Novo Selo |                      1                       |
+|   Banja Koviljaca   |                      1                       |
+|     Banja Vrujci    |                      5                       |
+|       Banoštor      |                      6                       |
+|        Baric        |                      2                       |
+|       Batocina      |                      2                       |
+|      Bavanište      |                      2                       |
+|        Becej        |                      3                       |
+|        Begec        |                      1                       |
+|      Bela Crkva     |                      1                       |
+|      Belanovica     |                      1                       |
+|       Belegiš       |                      4                       |
+|      Belo Blato     |                      1                       |
+|        Beocin       |                      15                      |
+|       Beograd       |                     7697                     |
+|        Beška        |                      7                       |
+|       Bogatic       |                      1                       |
+|       Boljevac      |                      1                       |
+|       Boljevci      |                      1                       |
+|         Bor         |                      2                       |
+|      Boždarevac     |                      2                       |
+|      Brajkovac      |                      1                       |
+|      Brodarevo      |                      1                       |
+|      Bujanovac      |                      1                       |
+|       Bukovac       |                      5                       |
+|        Cacak        |                      11                      |
+|       Cajetina      |                      10                      |
+|       Celarevo      |                      1                       |
+|        Cenej        |                      13                      |
+|        Centa        |                      1                       |
+|       Cerevic       |                      1                       |
+|     Cibutkovica     |                      1                       |
+|       Cicevac       |                      1                       |
+|         Coka        |                      2                       |
+|      Cortanovci     |                      3                       |
+|       Cuprija       |                     119                      |
+|      Debeljaca      |                      2                       |
+|      Deliblato      |                      4                       |
+|      Despotovac     |                      1                       |
+|      Divcibare      |                      5                       |
+|       Doljevac      |                      1                       |
+|     Donja Trnava    |                      1                       |
+|       Ðurdevo       |                      1                       |
+|       Feketic       |                      1                       |
+|        Futog        |                      7                       |
+|         Gaj         |                      1                       |
+|       Golobok       |                      1                       |
+|       Gorjani       |                      1                       |
+|   Gornja Toponica   |                      1                       |
+|   Gornje Stopanje   |                      1                       |
+|   Gornji Milanovac  |                      3                       |
+|        Grocka       |                      2                       |
+|   Guca (varošica)   |                      1                       |
+|       Hrtkovci      |                      1                       |
+|        Indija       |                      19                      |
+|         Irig        |                      13                      |
+|        Ivanje       |                      1                       |
+|       Ivanovo       |                      1                       |
+|       Jabucje       |                      3                       |
+|        Jabuka       |                      1                       |
+|       Jagodina      |                     375                      |
+|       Jalovik       |                      1                       |
+|       Jarkovac      |                      2                       |
+|        Jazak        |                      4                       |
+|      Jelašnica      |                      2                       |
+|      Jermenovci     |                      1                       |
+|         Kac         |                      21                      |
+|      Karlovcic      |                      1                       |
+|       Kikinda       |                      5                       |
+|        Kisac        |                      3                       |
+|       Kladovo       |                      3                       |
+|         Knic        |                      5                       |
+|       Kopaonik      |                      29                      |
+|       Koracica      |                      2                       |
+|       Kovacica      |                      16                      |
+|        Kovin        |                      19                      |
+|      Kragujevac     |                     558                      |
+|       Kraljevo      |                      17                      |
+|       Krcedin       |                      2                       |
+|  Krušedol Prnjavor  |                      1                       |
+|    Krušedol Selo    |                      1                       |
+|       Kruševac      |                      17                      |
+|         Kula        |                      2                       |
+|       Lacarak       |                      1                       |
+|   Lajkovac (varoš)  |                      2                       |
+|    Lapovo (selo)    |                      1                       |
+|      Lazarevac      |                      4                       |
+|       Ledinci       |                      7                       |
+|       Leskovac      |                     133                      |
+|       Lešnica       |                      1                       |
+|       Lipovica      |                      2                       |
+|         Ljig        |                      1                       |
+|       Loznica       |                      9                       |
+|      Majdanpek      |                      2                       |
+|     Mala Ivanca     |                      1                       |
+|        Malca        |                      1                       |
+|    Mali Požarevac   |                      1                       |
+|     Mali Zvornik    |                      2                       |
+|       Mandelos      |                      2                       |
+|       Maradik       |                      1                       |
+|       Martinci      |                      1                       |
+|   Mataruška Banja   |                      1                       |
+|      Medoševac      |                      1                       |
+|       Medveda       |                      1                       |
+|       Melenci       |                      1                       |
+|        Meljak       |                      2                       |
+|       Mileševo      |                      1                       |
+|       Mionica       |                      4                       |
+|  Mladenovac (varoš) |                      12                      |
+|      Mladenovo      |                      2                       |
+|       Morovic       |                      1                       |
+|       Mošorin       |                      1                       |
+|         Niš         |                     1306                     |
+|       Niševac       |                      1                       |
+|      Nova Crnja     |                      2                       |
+|     Nova Pazova     |                      4                       |
+|      Nova Varoš     |                      2                       |
+|     Novi Banovci    |                      26                      |
+|      Novi Becej     |                      1                       |
+|       Novi Sad      |                     3816                     |
+|    Novi Slankamen   |                      5                       |
+|      Obrenovac      |                      25                      |
+|        Obrež        |                      1                       |
+|        Odžaci       |                      3                       |
+|        Opovo        |                      1                       |
+|    Osecina (selo)   |                      1                       |
+|        Palic        |                      4                       |
+|       Pancevo       |                     119                      |
+|       Paracin       |                     174                      |
+|      Pecenjevce     |                      1                       |
+|       Pecinci       |                      8                       |
+|       Perucac       |                      1                       |
+|  Petrovac na Mlavi  |                      2                       |
+|     Petrovaradin    |                      71                      |
+|        Pirot        |                      1                       |
+|       Popinci       |                      1                       |
+|      Potocanje      |                      1                       |
+|      Požarevac      |                      3                       |
+|        Požega       |                      1                       |
+|       Prekadin      |                      1                       |
+|      Prijepolje     |                      24                      |
+|      Prokuplje      |                      3                       |
+|       Rakovac       |                      3                       |
+|        Ralja        |                      1                       |
+|      Ranilovic      |                      1                       |
+|        Raška        |                      1                       |
+|       Rekovac       |                      8                       |
+|    Ribarska Banja   |                      1                       |
+|        Ripanj       |                      2                       |
+|       Ritopek       |                      2                       |
+|         Ruma        |                      15                      |
+|       Rumenka       |                      5                       |
+|        Šabac        |                      7                       |
+|        Salaš        |                      1                       |
+|        Secanj       |                      3                       |
+|       Sevojno       |                      1                       |
+|         Šid         |                      4                       |
+|      Šimanovci      |                      2                       |
+|        Sivac        |                      2                       |
+|       Skobalj       |                      1                       |
+|       Skupljen      |                      2                       |
+|      Smederevo      |                      30                      |
+| Smederevska Palanka |                      5                       |
+|      Sokobanja      |                      4                       |
+|        Sombor       |                      4                       |
+|        Sopot        |                      6                       |
+|        Srbija       |                      75                      |
+|       Srbobran      |                      7                       |
+|   Sremska Kamenica  |                      94                      |
+|  Sremska Mitrovica  |                      13                      |
+|   Sremski Karlovci  |                      21                      |
+|     Stara Pazova    |                      50                      |
+|       Starcevo      |                      4                       |
+|    Stari Banovci    |                      9                       |
+|   Stari Slankamen   |                      1                       |
+|       Stojnik       |                      1                       |
+|       Subotica      |                      38                      |
+|        Surduk       |                      1                       |
+|       Suvodol       |                      1                       |
+|      Svilajnac      |                      3                       |
+|       Svrljig       |                      1                       |
+|        Takovo       |                      2                       |
+|    Tara (planina)   |                      3                       |
+|       Temerin       |                      21                      |
+|        Titel        |                      5                       |
+|        Topola       |                      9                       |
+|       Trstenik      |                      1                       |
+|        Turija       |                      1                       |
+|          Ub         |                      6                       |
+|        Užice        |                      21                      |
+|       Valjevo       |                      22                      |
+|       Varvarin      |                      5                       |
+|     Velika Krsna    |                      1                       |
+|   Velika Moštanica  |                      2                       |
+|   Veliko Gradište   |                      6                       |
+|       Vencane       |                      1                       |
+|       Veternik      |                      28                      |
+|      Višnjicevo     |                      2                       |
+|     Vladicin Han    |                      6                       |
+|      Vladimirci     |                      7                       |
+|        Vlaška       |                      1                       |
+|      Vlasotince     |                      1                       |
+|        Vojka        |                      1                       |
+|     Vracevšnica     |                      1                       |
+|        Vranic       |                      1                       |
+|        Vranje       |                      48                      |
+|    Vranjska Banja   |                      1                       |
+|       Vranovo       |                      1                       |
+|        Vrbas        |                      3                       |
+|        Vrcin        |                      1                       |
+|        Vrdnik       |                      13                      |
+|    Vrnjacka Banja   |                      67                      |
+|        Vršac        |                      3                       |
+|        Žabalj       |                      4                       |
+|        Žabari       |                      1                       |
+|       Zajecar       |                      6                       |
+|       Žitište       |                      4                       |
+|       Zlatibor      |                     318                      |
+|       Zminjak       |                      1                       |
+|      Zrenjanin      |                     111                      |
+|        Zvecka       |                      2                       |
++---------------------+----------------------------------------------+

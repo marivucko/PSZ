@@ -1,0 +1,23 @@
+Ukoliko zelite automatsku vrednost faktora K pritisnite enter, u suprotnom unesite zeljenju vrednost faktora K 31
+Unesite kvadraturu stana: 26
+Unestie stanje stana:
+-2 -> Namenjeno rušenju
+-1 -> Delimicna rekonstrukcija
+0 -> Kompletna rekonstrukcija ili Neodredeno
+1 -> Izvorno stanje
+2 -> Standardna gradnja
+3 -> U izgradnji
+4 -> Završena izgradnja
+5 -> U pripremi
+6 -> Novogradnja
+: 2
+Unestie godinu izgradnje zgrade u kojoj je stan: 2000
+Unesite na kom je spratu (0 za prizemnje, -1 za suteren, 0.5 za visoko prizemlje ili broj sprata za vise spratove): 2
+Unesite koliko spratova ima zgrada: 5
+Unestie da li je stana uknjižen: 1 - ako jeste, -1 - ako nije: 1
+Unesite koliko soba ima stan: 0.5
+Unestie da li postoji parking: 1 - ako ima, -1 - ako nema: -1
+Unestie da li zgrada ima lift: 1 - ako ima, -1 - ako nema: -1
+Unesite lokaciju stana: Vukov spomenik
+kNN koriscenjem Euklidovog rastojanja predvidja da je cena stana:  [50 000€, 99 999€]
+kNN koriscenjem Menhten rastojanja predvidja da je cena stana:  [50 000€, 99 999€]

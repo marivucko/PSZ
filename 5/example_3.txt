@@ -1,0 +1,23 @@
+Ukoliko zelite automatsku vrednost faktora K pritisnite enter, u suprotnom unesite zeljenju vrednost faktora K 103
+Unesite kvadraturu stana: 32
+Unestie stanje stana:
+-2 -> Namenjeno rušenju
+-1 -> Delimicna rekonstrukcija
+0 -> Kompletna rekonstrukcija ili Neodredeno
+1 -> Izvorno stanje
+2 -> Standardna gradnja
+3 -> U izgradnji
+4 -> Završena izgradnja
+5 -> U pripremi
+6 -> Novogradnja
+: 1
+Unestie godinu izgradnje zgrade u kojoj je stan: 2000
+Unesite na kom je spratu (0 za prizemnje, -1 za suteren, 0.5 za visoko prizemlje ili broj sprata za vise spratove): 0.5
+Unesite koliko spratova ima zgrada: 12
+Unestie da li je stana uknjižen: 1 - ako jeste, -1 - ako nije: 1
+Unesite koliko soba ima stan: 1.5
+Unestie da li postoji parking: 1 - ako ima, -1 - ako nema: -1
+Unestie da li zgrada ima lift: 1 - ako ima, -1 - ako nema: 1
+Unesite lokaciju stana: Labudovo brdo
+kNN koriscenjem Euklidovog rastojanja predvidja da je cena stana:  <= 49 999€
+kNN koriscenjem Menhten rastojanja predvidja da je cena stana:  <= 49 999€
